@@ -16,12 +16,12 @@
 
 <br/>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=transparent" />
 </a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=tokyonight" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khaneliman&theme=tokyonight" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khaneliman&theme=transparent" />
 </a>
