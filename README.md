@@ -1,13 +1,3 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=tokyonight" />
-</a></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khaneliman&theme=tokyonight" />
-</a>
 
 <!-- <a href="https://wakatime.com"><img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/ad3270aa-4318-414e-af2f-18086b427ad0.png" /></a>
 <a href="https://wakatime.com"><img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/8372c5cc-6079-4014-93e9-9b943eeb4278.png" /></a>
@@ -23,3 +13,15 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+<br/>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=tokyonight" />
+</a></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khaneliman&theme=tokyonight" />
+</a>
