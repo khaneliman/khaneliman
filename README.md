@@ -9,6 +9,7 @@
   - [Austin-Horstman](https://github.com/khaneliman/Austin-Horstman) - My personal website that I use to practice Angular development and update resume
   - [ArchInstaller](https://github.com/khaneliman/ArchInstaller) - Arch installation scripts that allow choosing various desktop environments and customized upon installation.
   - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. will be expanded upon with themes and desktop environments.
+  - [NixOS Config](https://github.com/khaneliman/nixos-config) - Nix/ NixOS config repo for my machines. 
   - [SDDM Catppuccin](https://github.com/khaneliman/sddm-catppuccin) - Catppuccin theme for SDDM 
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development
