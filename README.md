@@ -13,11 +13,17 @@
   - [SDDM Catppuccin](https://github.com/khaneliman/sddm-catppuccin) - Catppuccin theme for SDDM 
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development
-  - Lua to help modify and support neovim usage 
+  - Lua to help modify and support neovim usage
+  - Nix to declaratively manage my personal systems and create dev shells for projects. 
 - 👯 I’m looking to collaborate on ...
-  - Hyprland / wlroots desktop applications and modules to improve the window manager experience 
+  - Hyprland / wlroots desktop applications and modules to improve the window manager experience
+  - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
 - 🤔 I’m looking for help with ...
+  - 
 - 📫 How to reach me: ...
+  - Discord
+  - Gmail
+  - Twitter 
 - ⚡ Fun fact: ...
 
 <br/>
