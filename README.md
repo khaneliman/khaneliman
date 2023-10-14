@@ -7,9 +7,10 @@
 
 - 🔭 I’m currently working on ...
   - [Austin-Horstman](https://github.com/khaneliman/Austin-Horstman) - My personal website that I use to practice Angular development and update resume
-  - [ArchInstaller](https://github.com/khaneliman/ArchInstaller) - Arch installation scripts that allow choosing various desktop environments and customized upon installation.
+  - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my mchines.
+  - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration. 
   - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. will be expanded upon with themes and desktop environments.
-  - [NixOS Config](https://github.com/khaneliman/nixos-config) - Nix/ NixOS config repo for my machines. 
+  - [ArchInstaller](https://github.com/khaneliman/ArchInstaller) - Arch installation scripts that allow choosing various desktop environments and customized upon installation.
   - [SDDM Catppuccin](https://github.com/khaneliman/sddm-catppuccin) - Catppuccin theme for SDDM 
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development
@@ -18,6 +19,7 @@
 - 👯 I’m looking to collaborate on ...
   - Hyprland / wlroots desktop applications and modules to improve the window manager experience
   - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
+  - NixOS and Nixpkgs development to improve the Nix ecosystem.
 - 🤔 I’m looking for help with ...
   - 
 - 📫 How to reach me: ...
