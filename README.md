@@ -4,29 +4,26 @@
 <a href="https://wakatime.com"><img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/c2b40c61-06ac-4d96-8d5e-8e41b7692165.png" /></a>
 <a href="https://wakatime.com"><img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/9eb25c09-864f-4da4-b755-791ff6fe35b2.png" /></a> -->
 
-
 - 🔭 I’m currently working on ...
   - [Austin-Horstman](https://github.com/khaneliman/Austin-Horstman) - My personal website that I use to practice Angular development and update resume
-  - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my mchines.
-  - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration. 
-  - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. will be expanded upon with themes and desktop environments.
-  - [ArchInstaller](https://github.com/khaneliman/ArchInstaller) - Arch installation scripts that allow choosing various desktop environments and customized upon installation.
-  - [SDDM Catppuccin](https://github.com/khaneliman/sddm-catppuccin) - Catppuccin theme for SDDM 
+  - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my mchines. Contains bulk of personal customizations for all the programs I use.
+  - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration.  (Deprecated in favor of khanelinix nixvim, currently. Will probably revisit to manage lua manually)
+  - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. (Deprecated in favor of khanelinix)
+  - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
+  - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development
-  - Lua to help modify and support neovim usage
+  - Lua to help modify and support neovim usage and extend Sketchybar on macOS.
   - Nix to declaratively manage my personal systems and create dev shells for projects. 
 - 👯 I’m looking to collaborate on ...
   - Hyprland / wlroots desktop applications and modules to improve the window manager experience
   - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
   - NixOS and Nixpkgs development to improve the Nix ecosystem.
 - 🤔 I’m looking for help with ...
-  - 
+  - Maintaining and progressing the support of macOS in the Nix ecosystem through Nixpkgs. 
 - 📫 How to reach me: ...
-  - Discord
-  - Gmail
-  - Twitter 
-- ⚡ Fun fact: ...
+  - Discord: khaneliman
+  - Gmail: khaneliman12@gmail.com  
 
 <br/>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
