@@ -21,7 +21,8 @@
   - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
   - NixOS and Nixpkgs development to improve the Nix ecosystem.
 - 🤔 I’m looking for help with ...
-  - Maintaining and progressing the support of macOS in the Nix ecosystem through Nixpkgs. 
+  - Maintaining and progressing the support of macOS in the Nix ecosystem through Nixpkgs.
+  - Improving the UX of personal photo library management using FOSS solutions. 
 - 📫 How to reach me: ...
   - Discord: khaneliman
   - Gmail: khaneliman12@gmail.com  
@@ -32,8 +33,8 @@
 </a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=transparent" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=transparent&hide=css" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khaneliman&theme=transparent" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/5509b284-3236-4f33-a44d-4cef951f407d.svg" />
 </a>
