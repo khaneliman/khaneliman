@@ -9,11 +9,12 @@
   - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my machines. Contains bulk of personal customizations for all the programs I use.
   - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration using Nixvim.
   - [NixVim](https://github.com/nix-community/nixvim) - NixVim is a Neovim distribution built around Nix modules. It is distributed as a Nix flake, and configured through Nix, all while leaving room for your plugins and your vimrc.
-  - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. (Deprecated in favor of khanelinix)
   - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
+  - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. (Deprecated in favor of khanelinix)
   - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.
 - 🌱 I’m currently learning ...
-  - Rust to keep up with latest language for system development
+  - Rust to keep up with latest language for system development.
+  - AI prompt engineering and custom application API integrations. 
   - Lua to help modify and support neovim usage and extend Sketchybar on macOS.
   - Nix to declaratively manage my personal systems and create dev shells for projects. 
 - 👯 I’m looking to collaborate on ...
