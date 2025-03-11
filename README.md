@@ -9,8 +9,8 @@
   - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my machines. Contains bulk of personal customizations for all the programs I use.
   - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration using Nixvim.
   - [NixVim](https://github.com/nix-community/nixvim) - NixVim is a Neovim distribution built around Nix modules. It is distributed as a Nix flake, and configured through Nix, all while leaving room for your plugins and your vimrc.
+  - [Hom Manager](https://github.com/nix-community/home-manager) - This project provides a basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs. It allows declarative configuration of user specific (non-global) packages and dotfiles.
   - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
-  - [Dotfiles](https://github.com/khaneliman/dotfiles) - Personal dotfiles for all my environments.. (Deprecated in favor of khanelinix)
   - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development.
@@ -18,7 +18,6 @@
   - Lua to help modify and support neovim usage and extend Sketchybar on macOS.
   - Nix to declaratively manage my personal systems and create dev shells for projects. 
 - 👯 I’m looking to collaborate on ...
-  - Hyprland / wlroots desktop applications and modules to improve the window manager experience
   - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
   - NixOS and Nixpkgs development to improve the Nix ecosystem.
 - 🤔 I’m looking for help with ...
@@ -32,10 +31,3 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=transparent" />
 </a></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaneliman&theme=transparent&hide=css" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@khaneliman/5509b284-3236-4f33-a44d-4cef951f407d.svg" />
-</a>
