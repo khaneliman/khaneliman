@@ -9,7 +9,7 @@
   - [Khanelinix](https://github.com/khaneliman/khanelinix) - Nix/ NixOS config repo for my machines. Contains bulk of personal customizations for all the programs I use.
   - [Khanelivim](https://github.com/khaneliman/khanelivim) - Personal neovim configuration using Nixvim.
   - [NixVim](https://github.com/nix-community/nixvim) - NixVim is a Neovim distribution built around Nix modules. It is distributed as a Nix flake, and configured through Nix, all while leaving room for your plugins and your vimrc.
-  - [Hom Manager](https://github.com/nix-community/home-manager) - This project provides a basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs. It allows declarative configuration of user specific (non-global) packages and dotfiles.
+  - [Home Manager](https://github.com/nix-community/home-manager) - This project provides a basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs. It allows declarative configuration of user specific (non-global) packages and dotfiles.
   - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
   - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.
 - 🌱 I’m currently learning ...
