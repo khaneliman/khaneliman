@@ -11,22 +11,11 @@
   - [NixVim](https://github.com/nix-community/nixvim) - NixVim is a Neovim distribution built around Nix modules. It is distributed as a Nix flake, and configured through Nix, all while leaving room for your plugins and your vimrc.
   - [Home Manager](https://github.com/nix-community/home-manager) - This project provides a basic system for managing a user environment using the Nix package manager together with the Nix libraries found in Nixpkgs. It allows declarative configuration of user specific (non-global) packages and dotfiles.
   - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
-  - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development.
   - AI prompt engineering and custom application API integrations. 
   - Lua to help modify and support neovim usage and extend Sketchybar on macOS.
   - Nix to declaratively manage my personal systems and create dev shells for projects. 
-- 👯 I’m looking to collaborate on ...
-  - Neovim plugins / distributions to improve the experience for IDE accustomed developers.
-  - NixOS and Nixpkgs development to improve the Nix ecosystem.
-- 🤔 I’m looking for help with ...
-  - Maintaining and progressing the support of macOS in the Nix ecosystem through Nixpkgs.
-  - Improving the UX of personal photo library management using FOSS solutions. 
-- 📫 How to reach me: ...
-  - Discord: khaneliman
-  - Gmail: khaneliman12@gmail.com  
-
 <br/>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=transparent" />
