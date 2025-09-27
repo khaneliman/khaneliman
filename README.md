@@ -13,9 +13,9 @@
   - [Nixpkgs](https://github.com/NixOS/Nixpkgs) - Nixpkgs development to support NixOS, home-manager, and Nix-Darwin.
 - 🌱 I’m currently learning ...
   - Rust to keep up with latest language for system development.
-  - AI prompt engineering and custom application API integrations. 
+  - AI prompt engineering and custom application API integrations.
+  - Agentic AI flows and MCP server DX flows
   - Lua to help modify and support neovim usage and extend Sketchybar on macOS.
-  - Nix to declaratively manage my personal systems and create dev shells for projects. 
 <br/>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaneliman&show_icons=true&theme=transparent" />
